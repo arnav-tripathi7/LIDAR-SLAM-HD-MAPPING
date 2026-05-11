@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>lidar_slam_mapping</name>
+  <version>0.0.0</version>
+  <description>SLAM and HD Mapping in ROS 2</description>
+  <maintainer email="arnavt@iitg.ac.in">Arnav Tripathi</maintainer>
+  <license>Apache-2.0</license>
+  <depend>rclcpp</depend>
+  <depend>sensor_msgs</depend>
+</package>
